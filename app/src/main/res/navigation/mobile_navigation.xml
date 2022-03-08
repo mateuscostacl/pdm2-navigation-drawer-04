@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_filme">
+
+    <fragment
+        android:id="@+id/nav_filme"
+        android:name="com.example.pdm2_navigation_drawer_04.ui.FilmeFragment"
+        android:label="@string/menu_filme"
+        tools:layout="@layout/fragment_filme" />
+
+    <fragment
+        android:id="@+id/nav_livro"
+        android:name="com.example.pdm2_navigation_drawer_04.ui.LivroFragment"
+        android:label="@string/menu_livro"
+        tools:layout="@layout/fragment_livro" />
+
+    <fragment
+        android:id="@+id/nav_esporte"
+        android:name="com.example.pdm2_navigation_drawer_04.ui.EsporteFragment"
+        android:label="@string/menu_esporte"
+        tools:layout="@layout/fragment_esporte" />
+</navigation>
