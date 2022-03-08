@@ -3,77 +3,77 @@
         {
             "nome": "007",
             "dicas": [
-                "",
-                "",
-                ""
+                "Filme de ação",
+                "É um clássico",
+                "O cara é um assassino profissional"
             ]
         },
         {
             "nome": "Titanic",
             "dicas": [
-                "",
-                "",
-                ""
+                "Filme antigo",
+                "História narrada em alto mar",
+                "Baseado em fatos reais"
             ]
         },
         {
             "nome": "Homem-aranha",
             "dicas": [
-                "",
-                "",
-                ""
+                "Filme de heroi",
+                "Protagonista criado pelos avós",
+                "Trage de cor azul e vermelha"
             ]
         }
     ],
     "livros": [
         {
-            "nome": "A bela e a fera",
+            "nome": "A história da humanidade",
             "dicas": [
-                "",
-                "",
-                ""
+                "Um dos maiores escritores brasileiros ",
+                "Conta a história de um mendigo",
+                "O nome começa com a frase: a história... "
             ]
         },
         {
             "nome": "Romeu e Julieta",
             "dicas": [
-                "",
-                "",
-                ""
+                "Um clássico da literatura",
+                "É de um homem e uma mulher",
+                "O nome é utilizado também em uma carreta"
             ]
         },
         {
             "nome": "Rapunzel",
             "dicas": [
-                "",
-                "",
-                ""
+                "História de uma mulher",
+                "Cabelo grande",
+                "Morava em um castelo"
             ]
         }
     ],
     "esportes": [
         {
-            "nome": "basebol",
+            "nome": "Basebol",
             "dicas": [
-                "",
-                "",
-                ""
+                "Praticado nos EUA",
+                "Usa um taco e uma luva",
+                "A bola é pequena"
             ]
         },
         {
-            "nome": "futebol",
+            "nome": "Futebol",
             "dicas": [
-                "",
-                "",
-                ""
+                "Esporte mais praticado do mundo",
+                "Criado na Inglaterra",
+                "Adorado por todos"
             ]
         },
         {
-            "nome": "basquete",
+            "nome": "Basquete",
             "dicas": [
-                "",
-                "",
-                ""
+                "Esporte praticado por quem não sabe jogar futebol",
+                "É jogado em uma quadra",
+                "A bola é grande"
             ]
         }
     ]
