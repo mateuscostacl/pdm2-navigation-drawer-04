@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupWithNavController(navigationView, navController);
 
         MainActivity.lottieAnimationView = findViewById(R.id.animation_view);
-        animar(R.raw.estudando);
         List<String> lista = new ArrayList<>();
 
         lista.add("A lenda");

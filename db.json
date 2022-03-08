@@ -1,0 +1,80 @@
+{
+    "filmes": [
+        {
+            "nome": "007",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "nome": "Titanic",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "nome": "Homem-aranha",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "livros": [
+        {
+            "nome": "A bela e a fera",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "nome": "Romeu e Julieta",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "nome": "Rapunzel",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "esportes": [
+        {
+            "nome": "basebol",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "nome": "futebol",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "nome": "basquete",
+            "dicas": [
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}
