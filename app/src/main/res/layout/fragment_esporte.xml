@@ -13,7 +13,6 @@
         android:text="Dica 1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAlignment="center"
         android:layout_marginBottom="20sp"
         android:textSize="20sp"/>
 
@@ -22,7 +21,6 @@
         android:text="Dica 2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAlignment="center"
         android:layout_marginBottom="20sp"
         android:textSize="20sp"/>
 
@@ -31,12 +29,12 @@
         android:text="Dica 3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAlignment="center"
         android:layout_marginBottom="20sp"
         android:textSize="20sp"/>
 
     <EditText
         android:id="@+id/et_resposta"
+        android:textAlignment="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"></EditText>
 
